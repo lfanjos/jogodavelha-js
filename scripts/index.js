@@ -1,0 +1,1 @@
+window.ticTacToe = new TicTacController();
